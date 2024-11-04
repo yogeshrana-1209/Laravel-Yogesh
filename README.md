@@ -29,7 +29,7 @@ Before you begin, make sure you have the following installed:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/yogeshrana-1209/Laravel-Yogesh.git
    cd your-repo-name
 #Install Dependencies
 -- > composer install
